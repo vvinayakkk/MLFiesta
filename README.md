@@ -4,7 +4,8 @@
 # Sandalwood Knowledge Preservation System
 ### MLFIESTA Hackathon Project by Team Init.io
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e47ca91-6bc1-4e4e-b3fb-535d1cb69fe4" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/af49a8a3-4d48-4f40-80c4-6339d353c9b3" />
+
 
 
 ## 👥 Team Members
