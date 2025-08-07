@@ -1,7 +1,11 @@
 ## 🏆 **ML FIesta IIIT Bangalore Winning Project**
 
+
 # Sandalwood Knowledge Preservation System
 ### MLFIESTA Hackathon Project by Team Init.io
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e47ca91-6bc1-4e4e-b3fb-535d1cb69fe4" />
+
 
 ## 👥 Team Members
 - Mayank Ravariya
